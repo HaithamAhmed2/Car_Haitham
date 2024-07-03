@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task_2</string>
+    <string name="add_tx" />
+    <string name="send" />
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+</resources>
